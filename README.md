@@ -1,5 +1,4 @@
-# Easy-Instagram [![Build Status](https://travis-ci.org/Wellington475/easy-Instagram.svg)]
-
+# Easy-Instagram 
 PHP Easy Instagram API
 
 > **Description:** Although this project is a great way to help you in the treatment of Instagram API, was dedsenvolvido order to custom. The package is provided as is, so please use for their own risks.
