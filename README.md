@@ -1,4 +1,4 @@
-# Easy-Instagram [![Build Status](https://travis-ci.org/Wellington475/easy-Instagram.svg)](https://travis-ci.org/jabranr/instagram-php-sdk)
+# Easy-Instagram [![Build Status](https://travis-ci.org/Wellington475/easy-Instagram.svg)]
 
 PHP Easy Instagram API
 
